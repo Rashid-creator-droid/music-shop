@@ -23,6 +23,7 @@ A web application for an online musical instruments store with user authenticati
 ```bash
 git clone <repository-url>
 cd music-shop
+go mod tidy
 go run ./cmd/api
 ```
 
